@@ -10,7 +10,7 @@ function App() {
         <div className="App">
             <BrowserRouter>
                 <Nav>
-                    <Logo to={`/`}>
+                    <Logo to={`/foodApp`}>
                         <GiKnifeFork />
                         <h2>Delicious</h2>
                     </Logo>
