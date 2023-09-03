@@ -276,7 +276,7 @@ Error generating stack: `+o.message+`
         font-size: 1.2rem;
         font-weight: 400;
     }
-`,g4=()=>{const e=Pi();return O.jsx(j2,{children:O.jsxs(Zx,{location:e,children:[O.jsx(Gi,{path:"/foodApp",element:O.jsx(o4,{})}),O.jsx(Gi,{path:"/foodApp/cuisine/:type",element:O.jsx(s4,{})}),O.jsx(Gi,{path:"/foodApp/searched/:search",element:O.jsx(u4,{})}),O.jsx(Gi,{path:"/foodApp/recipe/:name",element:O.jsx(d4,{})})]},e.pathname)})};function v4(){return O.jsx("div",{className:"App",children:O.jsxs(rE,{children:[O.jsx(S4,{children:O.jsxs(y4,{to:"/",children:[O.jsx(SP,{}),O.jsx("h2",{children:"Delicious"})]})}),O.jsx(gP,{}),O.jsx(xP,{}),O.jsx(g4,{}),O.jsxs(w4,{children:["Developed and Maintained by Parth (",O.jsx(x4,{to:"https://bento.me/imparth",children:"imParth.dev"}),")"]})]})})}const y4=Se(xr)`
+`,g4=()=>{const e=Pi();return O.jsx(j2,{children:O.jsxs(Zx,{location:e,children:[O.jsx(Gi,{path:"/foodApp",element:O.jsx(o4,{})}),O.jsx(Gi,{path:"/foodApp/cuisine/:type",element:O.jsx(s4,{})}),O.jsx(Gi,{path:"/foodApp/searched/:search",element:O.jsx(u4,{})}),O.jsx(Gi,{path:"/foodApp/recipe/:name",element:O.jsx(d4,{})})]},e.pathname)})};function v4(){return O.jsx("div",{className:"App",children:O.jsxs(rE,{children:[O.jsx(S4,{children:O.jsxs(y4,{to:"/foodApp",children:[O.jsx(SP,{}),O.jsx("h2",{children:"Delicious"})]})}),O.jsx(gP,{}),O.jsx(xP,{}),O.jsx(g4,{}),O.jsxs(w4,{children:["Developed and Maintained by Parth (",O.jsx(x4,{to:"https://bento.me/imparth",children:"imParth.dev"}),")"]})]})})}const y4=Se(xr)`
     text-decoration: none;
     font-size: 2rem;
     font-weight: 400;
