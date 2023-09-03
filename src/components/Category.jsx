@@ -6,19 +6,19 @@ import { styled } from 'styled-components'
 const Category = () => {
     return (
         <List>
-            <SLink to={'/cuisine/Italian'}>
+            <SLink to={'foodApp/cuisine/Italian'}>
                 <FaPizzaSlice />
                 <h4>Italian</h4>
             </SLink>
-            <SLink to={'/cuisine/American'}>
+            <SLink to={'foodApp/cuisine/American'}>
                 <FaHamburger />
                 <h4>American</h4>
             </SLink>
-            <SLink to={'/cuisine/Thai'}>
+            <SLink to={'foodApp/cuisine/Thai'}>
                 <GiNoodles />
                 <h4>Thai</h4>
             </SLink>
-            <SLink to={'/cuisine/Japanese'}>
+            <SLink to={'foodApp/cuisine/Japanese'}>
                 <GiChopsticks />
                 <h4>Japanese</h4>
             </SLink>
