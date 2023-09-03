@@ -1,6 +1,6 @@
 # Delicious - Food App
 
-![Delicious Logo](public\DeliciousLogo.png)
+![Delicious Logo](public/DeliciousLogo.png)
 
 This is a React application that allows users to search for recipes, browse recipes by category, and view detailed information about recipes.
 
@@ -128,16 +128,16 @@ The codebase is structured as follows:
 ## Screenshots
 
 > `Home Screen`
-![Delicious Home Screen](public\app_screenshots\Home.png)
+![Delicious Home Screen](public/app_screenshots/Home.png)
 
 > `Cuisine Screen`
-![Delicious Cuisine Screen](public\app_screenshots\Cuisine.png)
+![Delicious Cuisine Screen](public/app_screenshots/Cuisine.png)
 
 > `Search Result Screen`
-![Delicious Search Result Screen](public\app_screenshots\Search.png)
+![Delicious Search Result Screen](public/app_screenshots/Search.png)
 
 > `Recipe Detail Screen`
-![Delicious Recipe Detail Screen](public\app_screenshots\Recipe.png)
+![Delicious Recipe Detail Screen](public/app_screenshots/Recipe.png)
 
 ## License
 
