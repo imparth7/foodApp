@@ -9,8 +9,8 @@ This is a React application that allows users to search for recipes, browse reci
 To get started, clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/imparth7/Delicious-Food.git
-cd Delicious-Food
+git clone https://github.com/imparth7/foodApp.git
+cd foodApp
 npm install
 ```
 
